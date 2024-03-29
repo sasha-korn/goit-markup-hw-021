@@ -47,7 +47,7 @@ nav {
     text-transform: uppercase;
     font-family: Raleway, sans-serif;
     color: var(--secondary-color);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -93,7 +93,6 @@ address {
 .webtwo {color: var(--secondary-body-color);}
 
 .msg {color: var(--secondary-body-color);
-    width: 264px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.2;
@@ -116,8 +115,6 @@ background-color: #F4F4FD;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-display: flex;
-align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 }
@@ -133,14 +130,11 @@ line-height: 1.2;
 letter-spacing: 0.02em;}
 
 .features {
-    width: 264px;
     height: 72px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em; 
     flex: none;
-    order: 1;
-    flex-grow: 0;
 }
 
 .order {background-color: var(--secondary-color);
@@ -159,7 +153,6 @@ letter-spacing: 0.02em;}
     .hero-title {
         text-align: center;
         color: #FFFFFF;
-        width: 496px;
         height: 120px;
         font-size: 56px;
         line-height: 1.07;
