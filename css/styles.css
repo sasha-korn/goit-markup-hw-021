@@ -130,7 +130,6 @@ line-height: 1.2;
 letter-spacing: 0.02em;}
 
 .features {
-    height: 72px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em; 
@@ -153,7 +152,6 @@ letter-spacing: 0.02em;}
     .hero-title {
         text-align: center;
         color: #FFFFFF;
-        height: 120px;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
